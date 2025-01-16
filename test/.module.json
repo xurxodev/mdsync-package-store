@@ -1,0 +1,9 @@
+{
+    "id": "GPSQivFELaU",
+    "name": "test",
+    "instance": "/dhis2",
+    "department": {
+        "id": "wl5cDMuUhmF",
+        "name": "Administrators"
+    }
+}
