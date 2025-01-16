@@ -1,0 +1,59 @@
+{
+    "package": {
+        "id": "n7YDVZxDs0l",
+        "name": "Package of test",
+        "user": {
+            "id": "xE7jOejl9FI",
+            "name": "John Traore"
+        },
+        "module": {
+            "id": "GPSQivFELaU",
+            "name": "test",
+            "instance": "/dhis2",
+            "department": {
+                "id": "wl5cDMuUhmF",
+                "name": "Administrators"
+            }
+        },
+        "created": "2025-01-16T12:59:12.267Z",
+        "deleted": false,
+        "version": "1.0.0",
+        "description": "",
+        "dhisVersion": "2.41",
+        "lastUpdated": "2025-01-16T12:59:20.852Z",
+        "lastUpdatedBy": {
+            "id": "xE7jOejl9FI",
+            "name": "John Traore"
+        }
+    },
+    "userGroups": [
+        {
+            "id": "wl5cDMuUhmF",
+            "name": "Administrators",
+            "created": "2021-03-18T11:52:17.436",
+            "favorite": false,
+            "createdBy": {
+                "id": "GOLswS44mh8",
+                "code": null,
+                "name": "Tom Wakiki",
+                "username": "system",
+                "displayName": "Tom Wakiki"
+            },
+            "favorites": [],
+            "displayName": "Administrators",
+            "lastUpdated": "2021-03-18T11:58:32.358",
+            "translations": [],
+            "lastUpdatedBy": {
+                "id": "GOLswS44mh8",
+                "code": null,
+                "name": "Tom Wakiki",
+                "username": "system",
+                "displayName": "Tom Wakiki"
+            },
+            "managedGroups": [],
+            "attributeValues": [],
+            "managedByGroups": []
+        }
+    ],
+    "eventVisualizations": []
+}
